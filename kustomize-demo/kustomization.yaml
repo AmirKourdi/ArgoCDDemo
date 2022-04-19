@@ -7,4 +7,5 @@ resources:
 - nginx-deployment.yaml
 - nginx-svc.yaml
 - sealed-secret.yaml
-- secret-pod.yaml
+- secret-volume-demo.yaml
+- secret-env-demo.yaml
